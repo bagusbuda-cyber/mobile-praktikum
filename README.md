@@ -7,4 +7,4 @@ Aplikasi latihan untuk memenuhi kegiatan praktikum Pemrograman Berbasis Mobile.
 Nama panggilan / akun GitHub: [bagusbuda-cyber]
 
 ## Status
-Proyek awal perkuliahan.
+Proyek awal perkuliahan.git
